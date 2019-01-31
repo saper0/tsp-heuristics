@@ -1,8 +1,6 @@
 # tsp-heuristics
 Heuristic Algorithms for solving the Traveling Salesman Problem
 
-* Support provided for berlin52, gr120, pcb442 and fl1400 instances from TSPLIB
-
 ## Algorithms
 
 ### Local Search: ls_2opt.py
@@ -27,8 +25,14 @@ Implements two different crossover strategies:
 * Maximum Preservation Crossover [3]
 
 [1] Ulder et al. (1991). Genetic local search algorithms for the 
-    traveling salesman problem.
+traveling salesman problem.
+    
 [2] Braun H. (1991). On solving travelling salesman problems by
- 		genetic algorithms.
+genetic algorithms.
+		
 [3] Muehlenbein, H. (1991). Evolution in Time and Space - The 
-		Parallel Genetic Algorithm
+Parallel Genetic Algorithm
+
+## TSP-Instances
+
+Implementations have been tested on and nativly support berlin52, gr120, pcb442 and fl1400 instances from TSPLIB
