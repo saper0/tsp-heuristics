@@ -35,4 +35,4 @@ Parallel Genetic Algorithm
 
 ## TSP-Instances
 
-Implementations have been tested on and nativly support berlin52, gr120, pcb442 and fl1400 instances from TSPLIB
+Implementations have been tested on and nativly support the berlin52, gr120, pcb442 and fl1400 instances from TSPLIB
