@@ -1,5 +1,5 @@
 # tsp-heuristics
-Heuristic Algorithms for solving the Traveling Salesman Problem
+Heuristic Algorithms for solving the Traveling Salesman Problem, developed for the 2018W - Computational Optimization course.
 
 ## Algorithms
 
